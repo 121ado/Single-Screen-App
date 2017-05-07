@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sTitle">26sp</dimen>
+    <dimen name="sInfo">20sp</dimen>
+    <dimen name="margin">2dp</dimen>
+    <dimen name="padding">10dp</dimen>
+</resources>
