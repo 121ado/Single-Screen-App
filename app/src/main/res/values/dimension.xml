@@ -4,4 +4,7 @@
     <dimen name="sInfo">20sp</dimen>
     <dimen name="margin">2dp</dimen>
     <dimen name="padding">10dp</dimen>
+    <dimen name="width">0dp</dimen>
+    <dimen name="two">2</dimen>
+    <dimen name="three">3</dimen>
 </resources>
